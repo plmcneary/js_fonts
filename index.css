@@ -1,0 +1,23 @@
+body{
+  background-color: #FAEBE8
+}
+
+h1{
+  display: block;
+  font-weight: 700;
+  font-size: 2.5em;
+  line-height: 1.4;
+  text-align: center;
+}
+
+li{
+  font-weight: 200;
+  font-size: 1 em;
+  text-align: left;
+}
+
+.family{
+  font-weight: 600;
+  font-size: 2 em;
+  line-height: 1.4;
+}
